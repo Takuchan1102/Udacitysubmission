@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Animal Card</title>
+    <link rel="stylesheet" href="animalcard.css">
+</head>
+<body>
+<div class="overall">
+<h1>Starfish</h1>
+<img src="https://www.thesprucepets.com/thmb/Z6K9hAh-RlboQYjZ1GZ3mpBwWyU=/800x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-489010151-5b7b277f46e0fb005066d0a0.jpg", alt="starfish" class="image">
+<div class="body">
+<div class="introduction">Starfish feeds by extending their stomach out of its mouth and over the prey.</div>
+    <ul>
+        <li><strong>Scientific name</strong>: Asteroidea
+        <li><strong>Average Length</strong>:10 centimeters
+        <li><strong>Average Life Span</strong>: 35 years
+        <li><strong>Habitat</strong>:Tropical coral reefs, rocky shores, tidal pools, mud, and sand to kelp forests, seagrass meadows and the deep-sea floor down to at least 6,000 m
+    </ul>
+<div class="conclusion"> Statfish is a marine invertebrate having a central disc and five arms brightly coloured in various shades. Most can regenerate damaged parts or lost arms and they can shed arms as a means of defence.
+</div>    
+</div>
+</div>
+</body>
+</html>
+
